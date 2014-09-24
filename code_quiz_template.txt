@@ -1,0 +1,33 @@
+::java
+        class Main {
+            public static void main(String[] args) {
+                // put your code here
+            }
+        }
+        
+::haskell
+        main :: IO ()
+        -- put your code here
+        
+::c++
+        #include <iostream>
+
+        int main() {
+            // put your code here
+            return 0;
+        }
+        
+::octave
+        # put your code here
+
+::python3
+        import sys
+        
+        pattern = input()
+        dna = input()
+
+        # Write code here
+
+        ans = ''
+        sys.stdout.write(ans)
+
